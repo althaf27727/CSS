@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#div{
+    background-color: aquamarine;
+    min-height: 350px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+
+#head{
+    background-color: blueviolet;
+    /* margin: 150px; */
+    padding: 100px;
+}
